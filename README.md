@@ -5,19 +5,35 @@ Full Stack Developer | React • Next.js • Node.js • MongoDB
 </h3>
 
 <p align="center">
-Passionate about building scalable full-stack web applications and solving Data Structures & Algorithms problems.
+Building modern full-stack web applications with React, Next.js, Node.js, and MongoDB while strengthening problem-solving through Data Structures & Algorithms.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyushgarg-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Piyush_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:piyushgarg6702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech IT Student at USICT, GGSIPU
-- 💻 Full Stack Developer specializing in React, Next.js, Node.js & MongoDB
-- 🚀 Built production-ready web applications with authentication, AI integration, and responsive UI
-- 📚 Solved **250+ DSA problems** across **LeetCode** and **GeeksforGeeks**
-- 🌱 Continuously improving my problem-solving and full-stack development skills
-- 🎯 Actively seeking Software Engineering Internship opportunities
+- 🎓 3rd Year B.Tech IT Student at **USICT, GGSIPU**
+- 💻 Full Stack Developer specializing in **React, Next.js, Node.js & MongoDB**
+- 🚀 Built full-stack web applications featuring authentication, AI integration, and responsive user experiences
+- 📚 Solved **250+ DSA Problems** across **LeetCode** and **GeeksforGeeks**
+- 🌱 Passionate about learning modern web technologies and writing clean, scalable code
+- 🎯 Actively seeking **Software Engineering Internship** opportunities
+
+---
+
+## 💡 Philosophy
+
+> **Code. Learn. Build. Repeat.**
 
 ---
 
@@ -49,8 +65,8 @@ Passionate about building scalable full-stack web applications and solving Data 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -58,27 +74,37 @@ Passionate about building scalable full-stack web applications and solving Data 
 
 ### 🤖 AI Career Copilot
 
-An AI-powered career platform featuring ATS Resume Analysis, AI Mock Interviews, Resume Builder, Career Guidance, and Interview Feedback.
+AI-powered career preparation platform that helps students prepare for placements through resume analysis, AI mock interviews, interview feedback, and personalized career guidance.
 
-**Tech Stack:** Next.js, Node.js, MongoDB, OpenAI, Tailwind CSS
+**Tech Stack:** Next.js • Node.js • MongoDB • OpenAI API • Tailwind CSS
+
+🔗 **Repository:** `https://github.com/piyush-garg-web/ai-career-copilot.git`
+
+🌐 **Live Demo:** `https://ai-career-copilot-gray.vercel.app/`
 
 ---
 
 ### 🛒 E-Commerce Platform
 
-A modern full-stack e-commerce application with authentication, shopping cart, product management, order management, and responsive UI.
+Modern full-stack e-commerce platform featuring authentication, product management, shopping cart, order management, and responsive user interface.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+**Tech Stack:** React • Node.js • Express.js • MongoDB
 
+🔗 **Repository:** `https://github.com/piyush-garg-web/nextjs-ecommerce-platform.git`
+
+🌐 **Live Demo:** `https://e-commerce-gilt-seven-85.vercel.app/`
+
+---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush-garg-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush-garg-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-garg-web&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-garg-web&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
+---
 
 ## 🔥 GitHub Streak
 
@@ -86,30 +112,34 @@ A modern full-stack e-commerce application with authentication, shopping cart, p
 <img src="https://streak-stats.demolab.com?user=piyush-garg-web&theme=github-dark&hide_border=true"/>
 </p>
 
+---
 
 ## 🎯 Current Focus
 
 - 🚀 Building impactful Full Stack applications
 - 📚 Strengthening Data Structures & Algorithms
-- 💡 Exploring AI-powered web applications
-- 🎯 Preparing for Software Engineering Internships
+- 🤖 Exploring AI-powered web applications
+- 💼 Preparing for Software Engineering Internship opportunities
 
+---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyushgarg-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:piyushgarg6702@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/piyushgarg-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-Piyush_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyushgarg6702@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+Thanks for visiting my profile! 🚀 <br>
+Feel free to explore my repositories and connect with me.
 </p>
