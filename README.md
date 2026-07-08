@@ -105,9 +105,9 @@ https://e-commerce-gilt-seven-85.vercel.app
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush-garg-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=piyush-garg-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-garg-web&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-garg-web&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ https://e-commerce-gilt-seven-85.vercel.app
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyush-garg-web&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-garg-web&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
