@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Garg</h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Node.js • MongoDB • PostgreSQL
+Full Stack Developer • AI-Integrated Web Applications • React • Next.js • Node.js
 </h3>
 
 <p align="center">
-Building scalable full-stack web applications using modern technologies while strengthening problem-solving through Data Structures & Algorithms.
+Building scalable full-stack web applications with modern technologies and AI integration while strengthening problem-solving through Data Structures & Algorithms.
 </p>
 
 <p align="center">
@@ -23,10 +23,11 @@ Building scalable full-stack web applications using modern technologies while st
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year B.Tech IT Student at **USICT, GGSIPU**
-- 💻 Full Stack Developer specializing in **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL & Prisma ORM**
-- 🚀 Built production-ready full-stack web applications featuring authentication, AI integration, modern UI, and responsive design
+- 💻 Full Stack Developer specializing in **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, and AI-powered web applications**
+- 🚀 Built production-ready full-stack applications featuring secure authentication, AI integration, modern UI, responsive design, and scalable backend architecture
+- 🤖 Experienced in integrating **Google Gemini API** to build intelligent AI-powered features
 - 📚 Solved **250+ DSA Problems** across **LeetCode** and **GeeksforGeeks**
-- 🌱 Passionate about building scalable applications and continuously learning modern technologies
+- 🌱 Passionate about building scalable software and continuously learning modern technologies
 - 🎯 Actively seeking **Software Engineering Internship** opportunities
 
 ---
@@ -63,6 +64,10 @@ Building scalable full-stack web applications using modern technologies while st
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+### AI
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,7 +81,7 @@ Building scalable full-stack web applications using modern technologies while st
 
 ### 🤖 AI Career Copilot
 
-AI-powered career preparation platform that helps students optimize resumes, analyze ATS compatibility, practice AI-powered mock interviews, receive interview feedback, and get personalized career guidance.
+AI-powered career preparation platform that helps students optimize resumes, analyze ATS compatibility, practice AI-powered mock interviews, receive intelligent interview feedback, and get personalized career guidance.
 
 **Tech Stack:** Next.js • React • PostgreSQL • Prisma ORM • Clerk • Google Gemini API • Tailwind CSS
 
@@ -90,7 +95,7 @@ https://ai-career-copilot-gray.vercel.app
 
 ### 🛒 E-Commerce Platform
 
-Modern full-stack e-commerce platform featuring secure authentication, product management, shopping cart, order management, and a responsive user interface.
+Modern full-stack e-commerce platform featuring secure authentication, product management, shopping cart, order management, online payments, and a responsive user interface.
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB
 
@@ -122,10 +127,10 @@ https://e-commerce-gilt-seven-85.vercel.app
 
 ## 🎯 Current Focus
 
-- 🚀 Building production-ready Full Stack applications
-- 🤖 Exploring AI-powered web applications
+- 🚀 Building scalable production-ready Full Stack applications
+- 🤖 Developing AI-powered features and intelligent web applications
 - 📚 Strengthening Data Structures & Algorithms
-- 🗄️ Expanding expertise in relational databases with PostgreSQL & Prisma
+- 🗄️ Expanding expertise in PostgreSQL, Prisma ORM, and backend system design
 - 💼 Preparing for Software Engineering Internship opportunities
 
 ---
@@ -151,5 +156,5 @@ https://e-commerce-gilt-seven-85.vercel.app
 </h3>
 
 <p align="center">
-I'm always excited to build impactful software, learn new technologies, and collaborate on meaningful projects. Feel free to explore my repositories or connect with me!
+I'm always excited to build impactful software, explore AI-driven solutions, learn modern technologies, and collaborate on meaningful projects. Feel free to explore my repositories or connect with me!
 </p>
