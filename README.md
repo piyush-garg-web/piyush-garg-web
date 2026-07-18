@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Garg</h1>
 
 <h3 align="center">
-Full Stack Developer • AI-Integrated Web Applications • React • Next.js • Node.js
+Full Stack Developer • AI-Integrated Web Applications • React • Next.js • Node.js • Open to Software Engineering Internships
 </h3>
 
 <p align="center">
@@ -16,6 +16,10 @@ Building scalable full-stack web applications with modern technologies and AI in
 
 <a href="https://github.com/piyush-garg-web">
 <img src="https://img.shields.io/badge/GitHub-piyush--garg--web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-one-livid-15.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Pleetpro1/">
@@ -38,6 +42,7 @@ Building scalable full-stack web applications with modern technologies and AI in
 
 - 🎓 B.Tech Information Technology Student at **USICT, GGSIPU**
 - 💻 Full Stack Developer specializing in **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, and AI-powered web applications**
+- 🌐 Built and deployed a modern developer portfolio showcasing projects, technical skills, coding profiles, certifications, and GitHub activity
 - 🚀 Built production-ready full-stack applications featuring secure authentication, AI integration, modern UI, responsive design, and scalable backend architecture
 - 🤖 Experienced in integrating **Google Gemini API** to build intelligent AI-powered features
 - 📚 Solved **236+ DSA Problems** across **LeetCode (181+)** and **GeeksforGeeks (55+)**
@@ -46,7 +51,7 @@ Building scalable full-stack web applications with modern technologies and AI in
 
 ---
 
-# 💻 Coding Profiles
+# 🏆 Coding Profiles
 
 <p align="center">
 
@@ -64,6 +69,16 @@ Building scalable full-stack web applications with modern technologies and AI in
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/user/piyushgarg07/
 
 > Consistently solving Data Structures & Algorithms problems to strengthen problem-solving, coding interview preparation, and software engineering fundamentals.
+
+---
+
+# 🌐 Portfolio
+
+Explore my complete developer portfolio showcasing my featured projects, technical skills, coding profiles, and professional journey.
+
+🔗 **Portfolio**
+
+https://portfolio-one-livid-15.vercel.app/
 
 ---
 
@@ -142,6 +157,15 @@ https://e-commerce-gilt-seven-85.vercel.app
 
 ---
 
+# 📚 Data Structures & Algorithms
+
+I actively solve Data Structures & Algorithms problems to strengthen problem-solving skills and prepare for technical interviews.
+
+- **236+ Problems Solved**
+- **LeetCode:** https://leetcode.com/u/Pleetpro1/
+- **GeeksforGeeks:** https://www.geeksforgeeks.org/user/piyushgarg07/
+- **Repository:** https://github.com/piyush-garg-web/dsa
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -162,6 +186,7 @@ https://e-commerce-gilt-seven-85.vercel.app
 
 # 🎯 Current Focus
 
+- 🌐 Continuously improving my developer portfolio and showcasing production-ready applications
 - 🚀 Building scalable production-ready Full Stack applications
 - 🤖 Developing AI-powered features and intelligent web applications
 - 📚 Strengthening Data Structures & Algorithms
@@ -180,6 +205,10 @@ https://e-commerce-gilt-seven-85.vercel.app
 
 <a href="https://github.com/piyush-garg-web">
 <img src="https://img.shields.io/badge/GitHub-piyush--garg--web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-one-livid-15.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Pleetpro1/">
@@ -203,5 +232,5 @@ https://e-commerce-gilt-seven-85.vercel.app
 </h3>
 
 <p align="center">
-I'm always excited to build impactful software, explore AI-driven solutions, learn modern technologies, and collaborate on meaningful projects. Feel free to explore my repositories or connect with me!
+I'm passionate about building impactful full-stack applications, integrating AI into real-world products, solving challenging problems through DSA, and continuously learning modern technologies. Feel free to explore my portfolio, repositories, or connect with me!
 </p>
