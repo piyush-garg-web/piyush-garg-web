@@ -45,7 +45,7 @@ Building scalable full-stack web applications with modern technologies and AI in
 - 🌐 Built and deployed a modern developer portfolio showcasing projects, technical skills, coding profiles, certifications, and GitHub activity
 - 🚀 Built production-ready full-stack applications featuring secure authentication, AI integration, modern UI, responsive design, and scalable backend architecture
 - 🤖 Experienced in integrating **Google Gemini API** to build intelligent AI-powered features
-- 📚 Solved **236+ DSA Problems** across **LeetCode (181+)** and **GeeksforGeeks (55+)**
+- 📚 Solved **300+ DSA Problems** across **LeetCode (180+)** and **GeeksforGeeks (120+)**
 - 🌱 Passionate about building scalable software and continuously learning modern technologies
 - 🎯 Actively seeking **Software Engineering Internship** opportunities
 
@@ -161,7 +161,7 @@ https://e-commerce-gilt-seven-85.vercel.app
 
 I actively solve Data Structures & Algorithms problems to strengthen problem-solving skills and prepare for technical interviews.
 
-- **236+ Problems Solved**
+- **300+ Problems Solved**
 - **LeetCode:** https://leetcode.com/u/Pleetpro1/
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/user/piyushgarg07/
 - **Repository:** https://github.com/piyush-garg-web/dsa
