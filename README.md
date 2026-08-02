@@ -56,11 +56,11 @@ Building scalable full-stack web applications with modern technologies and AI in
 <p align="center">
 
 <a href="https://leetcode.com/u/Pleetpro1/">
-<img src="https://img.shields.io/badge/LeetCode-180+%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-180%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/piyushgarg07/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-55+%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-120%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
